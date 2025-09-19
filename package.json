@@ -1,0 +1,14 @@
+{
+  "name": "vps-project",
+  "version": "1.0.0",
+  "description": "Free VPS project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "gesandu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
